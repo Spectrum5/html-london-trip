@@ -20,8 +20,8 @@ Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo
 3. linea hr
 4. h2 più tabella
 5. linea hr
-6. lista ur
+6. lista ul
 7. linea hr
-8. h2 più una lista or e per ogni "li" c'è una lista ur
+8. h2 più una lista ol e per ogni "li" c'è una lista ul
 9. linea hr
 10. h2 più 2 foto
